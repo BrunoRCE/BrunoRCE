@@ -1,4 +1,4 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hello, I'm Bruno Camacho
+# Hello, I'm Bruno Camacho
 ### Freelance Android engineer
 
 
