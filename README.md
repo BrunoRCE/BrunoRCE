@@ -17,8 +17,8 @@ Since then I have dedicated myself to specializing in the development of mobile 
 [![Spring_Boot](https://img.shields.io/badge/spring_boot-6db33f?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
 </br>
 [![C](https://img.shields.io/badge/c-669ad3?style=for-the-badge&logo=c&logoColor=white&labelColor=101010)]()
-[![C++](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![C#](https://img.shields.io/badge/spring_boot-6db33f?style=for-the-badge&logo=spring&logoColor=white&labelColor=101010)]()
+[![php](https://img.shields.io/badge/php-777bb3?style=for-the-badge&logo=php&logoColor=white&labelColor=101010)]()
+[![opengl](https://img.shields.io/badge/opengl-4585b5?style=for-the-badge&logo=opengl&logoColor=white&labelColor=101010)]()
 </br>
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
