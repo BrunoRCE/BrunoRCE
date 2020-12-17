@@ -4,8 +4,7 @@
 
 I'm a professional software developer for more than five years.
 
-In 2018 I created [**Brunox Apps**](https://play.google.com/store/apps/developer?id=Brunox+Apps&hl=es_MX&gl=US), the reflection of my dream of growing as a professional within the software development industry.
-Since then I have dedicated myself to specializing in the development of mobile applications
+In 2018 I created [**Brunox Apps**](https://play.google.com/store/apps/developer?id=Brunox+Apps&hl=es_MX&gl=US), since then I have dedicated myself to specializing in the development of mobile applications
 
 ## Skills:
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white&labelColor=101010)]()
